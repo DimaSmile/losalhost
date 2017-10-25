@@ -10,6 +10,10 @@
 	<?php echo "git add"; ?>3
 	<?php echo "git add"; ?>4
 	<?php echo "git add"; ?>5
+<<<<<<< HEAD
 	hello new_f branch
+=======
+	hello in master branch
+>>>>>>> master
 </body>
 </html>
